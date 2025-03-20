@@ -1,2 +1,2 @@
 # Web-Content-Assistant
- Developed a Streamlit-based web application that scrapes, analyzes, and interacts with website content using LLM technology.
+  Developed a Streamlit-based web application that scrapes, analyzes, and interacts with website content using LLM technology. Features include comprehensive web scraping with BeautifulSoup, content summarization using Groq API integration, and an interactive chat interface allowing users to ask questions about scraped content. Implemented structured content extraction for headers, paragraphs, lists, tables, and images with proper error handling and user-friendly UI.
