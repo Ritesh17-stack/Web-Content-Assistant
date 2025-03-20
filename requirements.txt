@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-groq
+playwright
+beautifulsoup4
+python-dotenv
+html2text
+streamlit
+pandas
